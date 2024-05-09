@@ -260,7 +260,6 @@ install_command() {
     install_marzban_script
     install_marzban
     up_marzban
-    follow_marzban_logs
 }
 
 uninstall_command() {
